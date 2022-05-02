@@ -1,7 +1,8 @@
-package com.gabrielgrs2.provarenner
+package com.gabrielgrs2.presentation.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.gabrielgrs2.provarenner.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
